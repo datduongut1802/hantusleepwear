@@ -1,0 +1,11 @@
+/*MOBILE*/
+@media(max-width:719px){
+    #nav li{
+        display: block;
+    }
+    #nav li a{
+        color: #000;}
+        #header .search-bth{
+            display: none;
+        }
+    }
